@@ -1,0 +1,27 @@
+# Java Infrastructure & Automation Portfolio ☕
+
+Welcome to my Java repository! As an IT Administrator, my focus with Java goes beyond standard software development. I leverage Java and its ecosystem to manage system configurations, optimize server performance, and handle large-scale data tools like **Apache Spark**.
+
+## 🚀 Technical Expertise in Java
+
+Here is what I can handle efficiently in Enterprise environments:
+
+*   **Environment Management:** Installing, configuring, and upgrading OpenJDK / Oracle JDK across Windows and Linux servers.
+*   **Performance Tuning:** Managing Java Virtual Machine (JVM) memory allocations, heap size, and garbage collection (`Xms`, `Xmx` optimization).
+*   **Troubleshooting:** Analyzing Java thread dumps and parsing application logs (e.g., Apache Tomcat, WildFly) to minimize downtime.
+*   **Big Data Integration:** Basic data processing and log analysis utilizing the **Apache Spark** framework with Java.
+
+---
+
+## 📂 Current & Upcoming Projects
+
+### 1. ⚙️ Java Environment Setup Automation
+*   **Status:** Active
+*   **Description:** Scripts to automate the setting of `JAVA_HOME` and system `Path` variables across corporate infrastructure to ensure seamless application deployment.
+
+### 2. 📊 Spark Log Analyzer (In Progress)
+*   **Status:** Designing
+*   **Description:** A Java-based tool leveraging Apache Spark to parse gigabytes of server logs instantly, filtering system `ERROR` and `WARN` flags for rapid infrastructure incident response.
+
+---
+*Looking for freelance opportunities or system consultations? Feel free to check out my Upwork profile or open an issue here!*
